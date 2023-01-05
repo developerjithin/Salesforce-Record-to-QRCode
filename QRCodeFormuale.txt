@@ -1,0 +1,1 @@
+IMAGE('https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://login.salesforce.com/lightning/r/Account/' +  Id  +  '/view','Scan QR')
