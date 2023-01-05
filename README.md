@@ -10,5 +10,9 @@ a) Create a formuale field
 
 b) Return formuale field to text data type
 
-c) Paste the f
+c) Paste the QRCodeFormuale.txt in Advanced Formuale field
+
+d) Replace the Id part in QRCodeFormuale.txt by Id field using input fields
+
+e) save and refresh your org.
 
